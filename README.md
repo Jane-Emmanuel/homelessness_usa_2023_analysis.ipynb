@@ -13,8 +13,8 @@ Objectives
 
 Files in this repository
 
-- `homelessness_eda.ipynb`: The Jupyter notebook containing the full EDA workflow  
-- `homelessness_eda.html`: Static HTML export of the notebook for easy viewing  
+- `homelessness_usa_2023_analysis.ipynb`: The Jupyter notebook containing the full EDA workflow  
+- `homelessness_usa_2023_analysis.html`: Static HTML export of the notebook for easy viewing  
 - `homelessness_in_US_2023.csv`: The original dataset with state-level homelessness data
 
 Key Findings
@@ -27,7 +27,7 @@ Key Findings
 How to Use
 
 1. Clone this repository or download the files  
-2. Run the Jupyter notebook `homelessness_eda.ipynb` to explore the analysis step-by-step  
+2. Run the Jupyter notebook `homelessness_usa_2023_analysis.ipynb` to explore the analysis step-by-step  
 3. Alternatively, open `homelessness_eda.html` in a web browser for a static view of the analysis
 
 Data Source
