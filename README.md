@@ -1,4 +1,4 @@
-homelessness_usa_2023_analysis.ipynb
+
 Exploratory Data Analysis of US Homelessness (2023) with visualizations and key insights
 
 This repository contains an exploratory data analysis (EDA) of homelessness across U.S. states for the year 2023. It includes data cleaning, feature engineering, and visualizations to uncover patterns and key insights related to homelessness.
