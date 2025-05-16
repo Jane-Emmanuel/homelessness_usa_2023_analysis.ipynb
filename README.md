@@ -28,7 +28,7 @@ How to Use
 
 1. Clone this repository or download the files  
 2. Run the Jupyter notebook `homelessness_usa_2023_analysis.ipynb` to explore the analysis step-by-step  
-3. Alternatively, open `homelessness_eda.html` in a web browser for a static view of the analysis
+3. Alternatively, open `homelessness_usa_2023_analysis.html` in a web browser for a static view of the analysis
 
 Data Source
 
